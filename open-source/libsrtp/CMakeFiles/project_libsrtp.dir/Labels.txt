@@ -1,0 +1,14 @@
+# Target labels
+ project_libsrtp
+# Source files and their labels
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/CMakeFiles/project_libsrtp
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/CMakeFiles/project_libsrtp.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/CMakeFiles/project_libsrtp-complete.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-install.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-mkdir.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-download.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-update.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-patch.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-configure.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-build.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-test.rule

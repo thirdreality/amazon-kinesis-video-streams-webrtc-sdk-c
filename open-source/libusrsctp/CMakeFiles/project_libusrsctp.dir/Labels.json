@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/CMakeFiles/project_libusrsctp"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/CMakeFiles/project_libusrsctp.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/CMakeFiles/project_libusrsctp-complete.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-install.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-mkdir.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-download.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-update.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-patch.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-configure.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-build.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_libusrsctp"
+		],
+		"name" : "project_libusrsctp"
+	}
+}

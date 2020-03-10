@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+076b8a76f7d0d8f4a5d69dcff5355c4a CMakeFiles/project_libsrtp
+e69b9e30bba3e562a56e375b7d4fc41f CMakeFiles/project_libsrtp-complete
+70d1ffdf38e2340b6663a979b5830a8e build/src/project_libsrtp-stamp/project_libsrtp-build
+ed25309611e4003fdb450a50fdf911c6 build/src/project_libsrtp-stamp/project_libsrtp-configure
+b489a034b5d122b9a157d7c46975156d build/src/project_libsrtp-stamp/project_libsrtp-download
+34a07dac277e614ea3d77d41e6be5d86 build/src/project_libsrtp-stamp/project_libsrtp-install
+ecf306f63e8f01261f533997f6524091 build/src/project_libsrtp-stamp/project_libsrtp-mkdir
+5ee975395e4bc7b699314a0c87572efa build/src/project_libsrtp-stamp/project_libsrtp-patch
+03022b1eb77e40042b14f48c828d145b build/src/project_libsrtp-stamp/project_libsrtp-test
+65c372ca8b9e82d9fdf8d8a1ed1f2be0 build/src/project_libsrtp-stamp/project_libsrtp-update

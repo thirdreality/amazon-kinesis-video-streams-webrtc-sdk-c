@@ -1,0 +1,14 @@
+# Target labels
+ project_libwebsockets
+# Source files and their labels
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/CMakeFiles/project_libwebsockets
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/CMakeFiles/project_libwebsockets.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/CMakeFiles/project_libwebsockets-complete.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-install.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-mkdir.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-download.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-update.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-patch.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-configure.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-build.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-test.rule

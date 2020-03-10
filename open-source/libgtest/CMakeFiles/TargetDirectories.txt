@@ -1,0 +1,3 @@
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/CMakeFiles/rebuild_cache.dir
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/CMakeFiles/edit_cache.dir
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/CMakeFiles/libgtest-download.dir

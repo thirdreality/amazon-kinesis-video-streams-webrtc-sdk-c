@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/CMakeFiles/project_libjsmn"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/CMakeFiles/project_libjsmn.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/CMakeFiles/project_libjsmn-complete.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-install.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-mkdir.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-download.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-update.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-patch.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-configure.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-build.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_libjsmn"
+		],
+		"name" : "project_libjsmn"
+	}
+}

@@ -1,0 +1,11 @@
+prefix="/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/local"
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libwebsockets
+Description: Websockets server and client library
+Version: 3.2.0
+
+Libs: -L${libdir} -lwebsockets
+Cflags: -I${includedir}

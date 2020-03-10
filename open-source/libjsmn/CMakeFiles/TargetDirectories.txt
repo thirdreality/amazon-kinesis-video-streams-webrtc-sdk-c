@@ -1,0 +1,3 @@
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/CMakeFiles/rebuild_cache.dir
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/CMakeFiles/edit_cache.dir
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/CMakeFiles/project_libjsmn.dir

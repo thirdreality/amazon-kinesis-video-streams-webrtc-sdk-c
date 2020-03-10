@@ -1,0 +1,14 @@
+# Target labels
+ libgtest-download
+# Source files and their labels
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/CMakeFiles/libgtest-download
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/CMakeFiles/libgtest-download.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/CMakeFiles/libgtest-download-complete.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-install.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-mkdir.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-download.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-update.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-patch.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-configure.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-build.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-test.rule

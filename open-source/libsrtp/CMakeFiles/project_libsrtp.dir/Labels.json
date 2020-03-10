@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/CMakeFiles/project_libsrtp"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/CMakeFiles/project_libsrtp.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/CMakeFiles/project_libsrtp-complete.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-install.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-mkdir.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-download.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-update.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-patch.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-configure.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-build.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libsrtp/build/src/project_libsrtp-stamp/project_libsrtp-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_libsrtp"
+		],
+		"name" : "project_libsrtp"
+	}
+}

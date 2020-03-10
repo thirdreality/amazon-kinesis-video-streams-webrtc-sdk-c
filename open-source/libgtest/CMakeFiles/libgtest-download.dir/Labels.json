@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/CMakeFiles/libgtest-download"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/CMakeFiles/libgtest-download.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/CMakeFiles/libgtest-download-complete.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-install.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-mkdir.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-download.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-update.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-patch.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-configure.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-build.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libgtest/build/src/libgtest-download-stamp/libgtest-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libgtest-download"
+		],
+		"name" : "libgtest-download"
+	}
+}

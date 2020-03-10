@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/CMakeFiles/project_libwebsockets"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/CMakeFiles/project_libwebsockets.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/CMakeFiles/project_libwebsockets-complete.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-install.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-mkdir.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-download.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-update.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-patch.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-configure.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-build.rule"
+		},
+		{
+			"file" : "/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libwebsockets/build/src/project_libwebsockets-stamp/project_libwebsockets-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_libwebsockets"
+		],
+		"name" : "project_libwebsockets"
+	}
+}

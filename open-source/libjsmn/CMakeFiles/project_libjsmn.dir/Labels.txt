@@ -1,0 +1,14 @@
+# Target labels
+ project_libjsmn
+# Source files and their labels
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/CMakeFiles/project_libjsmn
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/CMakeFiles/project_libjsmn.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/CMakeFiles/project_libjsmn-complete.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-install.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-mkdir.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-download.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-update.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-patch.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-configure.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-build.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libjsmn/build/src/project_libjsmn-stamp/project_libjsmn-test.rule

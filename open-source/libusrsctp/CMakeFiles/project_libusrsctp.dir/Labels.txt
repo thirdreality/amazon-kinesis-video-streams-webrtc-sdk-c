@@ -1,0 +1,14 @@
+# Target labels
+ project_libusrsctp
+# Source files and their labels
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/CMakeFiles/project_libusrsctp
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/CMakeFiles/project_libusrsctp.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/CMakeFiles/project_libusrsctp-complete.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-install.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-mkdir.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-download.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-update.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-patch.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-configure.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-build.rule
+/Users/divku/kvs-sdk/amazon-kinesis-video-streams-webrtc-sdk-c/open-source/libusrsctp/build/src/project_libusrsctp-stamp/project_libusrsctp-test.rule
